@@ -1,3 +1,9 @@
+#### Name: [SRITIKA MANJREKAR](https://github.com/sritikamanjrekar)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: I am a Computer Science Engineering student from Usha Mittal Institute of Technology
+- GitHub: [sritikamanjrekar](https://github.com/sritikamanjrekar)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
